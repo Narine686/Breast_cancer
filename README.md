@@ -6,7 +6,7 @@ This repository contains the RMarkdown code used to perform:
 * Functional Enrichment Analysis (FEA)
 * Location Enrichment Analysis
 
-using breast cancer samples and healthy breast tissue samples.
+using breast cancer samples and healthy breast tissue samples. The code filters for triple negative samples.
 
 ## Data
 
