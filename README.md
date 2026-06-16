@@ -1,5 +1,7 @@
 # Breast Cancer Transcriptomic Analysis
 
+[![DOI](https://zenodo.org/badge/1262796667.svg)](https://doi.org/10.5281/zenodo.20715977)
+
 This repository contains the RMarkdown code used to perform:
 
 * Differential Expression Analysis (DEA)
