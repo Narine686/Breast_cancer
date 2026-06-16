@@ -55,3 +55,7 @@ The analysis should be performed in the following order:
 ## Output
 
 The workflow generates tables and visualizations describing differentially expressed genes, enriched biological functions and enriched locations associated with breast cancer samples.
+
+## License
+
+This project is licensed under the MIT License.
